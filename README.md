@@ -237,4 +237,4 @@ This repository serves as the official landing page for SoundTaxi. The software 
 **Get the most recent version of SoundTaxi today!**
 
 ---
-**Last updated:** 2026-09-24 10:40:07 UTC
+**Last updated:** 2026-09-24 15:34:31 UTC
